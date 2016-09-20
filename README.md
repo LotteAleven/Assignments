@@ -1,3 +1,3 @@
 # Assignments
 
-[CV!] (https://github.com/LotteAleven/CV)
+[CV] (https://github.com/LotteAleven/CV)
